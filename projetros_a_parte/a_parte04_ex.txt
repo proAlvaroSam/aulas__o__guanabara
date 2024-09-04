@@ -1,0 +1,30 @@
+Para criar uma função em Python:
+
+Definir a função: 
+   Use a palavra-chave (def) seguida pelo nome da função e parênteses. Dentro dos parênteses, você pode incluir parâmetros (opcionais).
+   *exemplo*
+
+def apresentacao(nome) :
+     print(f 'Oi, {nome}!')
+
+Em Python, um parâmetro é uma variável que você define na declaração de uma função para receber valores externos quando a função é chamada. Esses valores são chamados de (argumentos).
+   *exemplo*
+
+def soma(x, y):
+    return x + y
+
+Quando você chama a função [soma(3, 5)], os valores [3 e 5] são os argumentos passados para os parâmetros x e y, respectivamente.
+
+Os parâmetros permitem que as funções sejam mais flexíveis e reutilizáveis, pois você pode passar diferentes valores para a função sem precisar alterar seu código interno[1 2].
+
+Se precisar de mais exemplos ou tiver outras dúvidas, estou aqui para ajudar! Você está trabalhando em algum projeto específico?
+
+video para relembrar : 
+funções "basico" (https://youtu.be/XbvSBegg09s)
+funções "partes"
+
+(https://youtu.be/LCaYaYtStfE?si=jBXB6sUINmqe8XIU)
+
+funções "com mais detalhes"
+(https://youtu.be/OeJVhHDFDMg?si=CQ32YUacl8V7rHAr)
+
